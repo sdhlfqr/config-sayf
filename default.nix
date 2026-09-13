@@ -1,5 +1,6 @@
 { ... }: {
   imports = [
+    ./configs/fish.nix
     ./configs/neovim.nix
   ];
 
