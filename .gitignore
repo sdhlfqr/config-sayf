@@ -1,0 +1,8 @@
+.DS_Store
+
+.direnv
+
+.idea/
+
+result
+*.local
